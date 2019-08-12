@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App_RadioButton</string>
+    <string name="txtnumero1">Dame el numero uno</string>
+    <string name="txtnumero2">Dame el numero dos</string>
+    <string name="rbSumar">Sumar</string>
+    <string name="rbrestar">Restar</string>
+    <string name="btncalcular">Calcular</string>
+    <string name="lblresultado">Resultado</string>
+</resources>

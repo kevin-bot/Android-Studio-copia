@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyPrimeraApp</string>
+
+    <string name="txtFisica">Física</string>
+    <string name="txtMatematica">Matemáticas</string>
+    <string name="txtQuimica">Quimica</string>
+    <string name="txtResultado">Estatus del alumno</string>
+    <string name="btnCalcular">Evaluar</string>
+    
+</resources>

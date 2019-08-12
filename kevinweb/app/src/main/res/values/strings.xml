@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">kevinweb</string>
+    <string name="txt_codigo">Codigo</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_precio">Precio</string>
+    <string name="txt_fabricante">Fabricante</string>
+    <string name="btn_actualizar">ACTUALIZAR</string>
+    <string name="btn_eliminar">ELIMINAR</string>
+    <string name="btn_insertar">INSERTAR</string>
+    <string name="btn_buscar">BUSCAR</string>
+</resources>

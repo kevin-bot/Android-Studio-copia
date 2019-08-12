@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NavegarActivity</string>
+    <string name="botomsiguiente">SIGUIENTE</string>
+    <string name="tw1">PRIMERA ACTIVITY</string>
+    <string name="botomSnterior">ANTERIOR</string>
+    <string name="tw2">SEGUNDA ACTIVITY</string>
+</resources>
